@@ -97,9 +97,6 @@ PRODUCT_PACKAGES += \
     libgui_vendor \
     libstdc++.vendor
 
-PRODUCT_PACKAGES += \
-    Snap
-
 # Display
 PRODUCT_PACKAGES += \
     android.hardware.graphics.composer@2.4-impl \
