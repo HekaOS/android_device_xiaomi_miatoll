@@ -339,19 +339,19 @@ vendor/lib64/camera/com.qti.tuned.ofilm_s5kgm2.bin|8b15943a79f9d82d7ceb6055da270
 vendor/lib64/camera/com.qti.tuned.sunny_imx582.bin|a43b96a3d4b361a388c89fba46cdf0409d33da17
 
 # Camera sensors (excalibur & joyeuse) - from joyeuse - RKQ1.200826.002/V12.5.5.0.RJZMIXM
-vendor/lib64/camera/com.qti.sensormodule.ofilm_s5kgw1.bin
-vendor/lib64/camera/com.qti.sensormodule.ofilm_s5kgw1_mirrorflip.bin
-vendor/lib64/camera/com.qti.sensormodule.sunny_s5kgw1.bin
-vendor/lib64/camera/com.qti.sensormodule.sunny_s5kgw1_mirrorflip.bin
-vendor/lib64/camera/com.qti.tuned.sunny_gc02m1.bin
-vendor/lib64/camera/com.qti.tuned.sunny_s5kgw1.bin
+vendor/lib64/camera/com.qti.sensormodule.ofilm_s5kgw1.bin|d7d7d51d436d46da23bb985982151cc3595e0634
+vendor/lib64/camera/com.qti.sensormodule.ofilm_s5kgw1_mirrorflip.bin|5f980c2f9520998ac0b53c938d4ce2c952c4c80b
+vendor/lib64/camera/com.qti.sensormodule.sunny_s5kgw1.bin|98a20d97d7babb7aab1406d5a6b0a3d7cfeeae41
+vendor/lib64/camera/com.qti.sensormodule.sunny_s5kgw1_mirrorflip.bin|8e170a3952e7032f8354e9f148893b2a24fc2e7d
+vendor/lib64/camera/com.qti.tuned.sunny_gc02m1.bin|f4764fb7a99b7a61b4569362959f444db910031b
+vendor/lib64/camera/com.qti.tuned.sunny_s5kgw1.bin|042dab61027b054bc176c779e4b079678a9102bf
 
 # Camera sensors (excalibur) - from excalibur - RKQ1.200826.002/V12.5.6.0.RJXINXM
 vendor/lib64/camera/com.qti.sensormodule.sunny_ov32a1q.bin|a6f8e2da547f15d315412f81c58d4ba6888641d5
 vendor/lib64/camera/com.qti.tuned.sunny_ov32a1q.bin|ea825eadeacdc02debdf1b6406706bf695e11bc0
 
 # Camera sensors (joyeuse) - from joyeuse - RKQ1.200826.002/V12.5.5.0.RJZMIXM
-vendor/lib64/camera/com.qti.tuned.ofilm_s5kgw1.bin
+vendor/lib64/camera/com.qti.tuned.ofilm_s5kgw1.bin|c2cf28a6473bc3927f418623886abf39bd069341
 
 # Camera (Megvii)
 vendor/etc/camera/megviifacepp_0_5_2_model
@@ -827,7 +827,7 @@ vendor/lib64/unnhal-acc-hta.so
 vendor/lib64/unnhal-acc-hvx.so
 
 # NFC - from joyeuse - RKQ1.200826.002/V12.5.5.0.RJZMIXM
-vendor/lib/libpn553_fw.so
+vendor/lib/libpn553_fw.so|a8e29cc3ebb2e0df0fb505fc2da9c69a015680fb
 
 # Permissions
 etc/permissions/privapp-permissions-qti.xml
