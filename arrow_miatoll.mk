@@ -8,13 +8,11 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
-# Inherit some common Kaleidoscope stuff.
-$(call inherit-product, vendor/kscope/target/product/mobile.mk)
+# Inherit common ArrowOS configurations
+$(call inherit-product, vendor/arrow/config/common.mk)
 
 # Inherit from miatoll device
 $(call inherit-product, device/xiaomi/miatoll/device.mk)
-
-TARGET_BOOT_ANIMATION_RES := 1080
 
 PRODUCT_NAME := kscope_miatoll
 PRODUCT_DEVICE := miatoll

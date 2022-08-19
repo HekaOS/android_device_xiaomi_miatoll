@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/kscope_miatoll.mk
+    $(LOCAL_DIR)/arrow_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    kscope_miatoll-user \
-    kscope_miatoll-userdebug \
-    kscope_miatoll-eng
+    arrow_miatoll-user \
+    arrow_miatoll-userdebug \
+    arrow_miatoll-eng
